@@ -2,3 +2,7 @@ BadBoy блокирует сообщения со спамом в чате о п
 
 Команды:
 /badboy — открытие меню настроек аддона
+
+**Скриншоты:**
+
+![](https://raw.githubusercontent.com/sirus-addons/BadBoy/master/.screenshots/1.webp)
